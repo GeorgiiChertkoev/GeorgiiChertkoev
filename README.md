@@ -16,10 +16,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=GeorgiiChertkoev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiiChertkoev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# test
 <picture>
   <source 
     srcset="https://nirzak-streak-stats.vercel.app/?user=GeorgiiChertkoev&theme=dark&hide_border=false" 
@@ -34,6 +31,23 @@
     alt="Статистика GitHub"
   />
 </picture>
+  <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiiChertkoev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+<br>
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiiChertkoev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiiChertkoev&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiiChertkoev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    alt="Статистика GitHub"
+  />
+</picture>
+
 
 
 ## 🏆 GitHub Trophies
