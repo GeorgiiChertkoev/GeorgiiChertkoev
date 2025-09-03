@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on wb golang course ([entry-task](https://github.com/GeorgiiChertkoev/wb-test-task))<br>
-🌱 I’m currently learning **Golang**<br>
+🌱 I’m currently learning **C# and Golang**<br>
 🏫 I’m currently studying at ITMO university (Software Engineering)<br>
 
 
