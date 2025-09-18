@@ -14,6 +14,7 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
 
+<!--- 
 
 # 📊 GitHub Stats:
 
@@ -31,7 +32,7 @@
     alt="Статистика GitHub"
   />
 </picture>
-  <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiiChertkoev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+  [comment]-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiiChertkoev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 <br>
 <picture>
   <source 
@@ -53,6 +54,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GeorgiiChertkoev&theme=onedark&no-frame=false&no-bg=true&margin-w=4&rank=-?,-C)
 
+
+
+-->
 
 
 ## 🌐 Contacts:
