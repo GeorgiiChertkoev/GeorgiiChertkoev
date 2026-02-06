@@ -1,14 +1,13 @@
 # 💫 About Me:
 🔭 I’m currently working on wb golang course ([entry-task](https://github.com/GeorgiiChertkoev/wb-test-task))<br>
-🌱 I’m currently learning **C# and Golang**<br>
-🏫 I’m currently studying at ITMO university (Software Engineering)<br>
+🌱 I’m currently learning **Golang and Java**<br>
+🏫 I’m currently studying at ITMO university (Software Engineering) 2nd year<br>
 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+# 💻 Tech Stack: 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
